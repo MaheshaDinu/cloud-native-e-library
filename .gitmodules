@@ -1,0 +1,18 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/MaheshaDinu/config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/MaheshaDinu/eureka-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/MaheshaDinu/api-gateway.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/MaheshaDinu/user-service.git
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/MaheshaDinu/catalog-service.git
+[submodule "media-service"]
+	path = media-service
+	url = https://github.com/MaheshaDinu/media-service.git
